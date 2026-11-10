@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to Schoolyard",
+    "tag": "Orientation",
+    "description": "Meet the academy, study tools, and career roadmap",
+    "project": "Orientation checklist",
+    "lessons": [
+      {
+        "title": "Understand the fundamentals",
+        "text": "Learn the foundational vocabulary and concepts for welcome to schoolyard. Start with a simple example, then explain it in your own words.",
+        "question": "Which approach is appropriate for a security exercise?",
+        "choices": [
+          "Test any device you can reach",
+          "Test only authorized lab systems",
+          "Disable logging to avoid detection",
+          "Share private data publicly"
+        ],
+        "answer": 1
+      },
+      {
+        "title": "Practice in an authorized lab",
+        "text": "Apply the ideas from welcome to schoolyard in an isolated lab. Record your steps, the evidence, and how you would defend against the simulated risk.",
+        "question": "What should you record after an investigation?",
+        "choices": [
+          "Only your final guess",
+          "Nothing until the course ends",
+          "Evidence, findings, and mitigations",
+          "Someone else\u2019s credentials"
+        ],
+        "answer": 2
+      },
+      {
+        "title": "Build your portfolio artifact",
+        "text": "Create your deliverable: Orientation checklist. Include objectives, scope, screenshots or evidence, what you learned, and a short summary for a hiring manager.",
+        "question": "What makes a portfolio project credible?",
+        "choices": [
+          "Clear scope and repeatable evidence",
+          "Unverified claims",
+          "A screenshot without context",
+          "Access without permission"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Tools & Foundations",
+    "tag": "Foundations",
+    "description": "Operating systems, networks, safe labs, and terminology",
+    "project": "Personal lab setup",
+    "lessons": [
+      {
+        "title": "Understand the fundamentals",
+        "text": "Learn the foundational vocabulary and concepts for tools & foundations. Start with a simple example, then explain it in your own words.",
+        "question": "Which approach is appropriate for a security exercise?",
+        "choices": [
+          "Test any device you can reach",
+          "Test only authorized lab systems",
+          "Disable logging to avoid detection",
+          "Share private data publicly"
+        ],
+        "answer": 1
+      },
+      {
+        "title": "Practice in an authorized lab",
+        "text": "Apply the ideas from tools & foundations in an isolated lab. Record your steps, the evidence, and how you would defend against the simulated risk.",
+        "question": "What should you record after an investigation?",
+        "choices": [
+          "Only your final guess",
+          "Nothing until the course ends",
+          "Evidence, findings, and mitigations",
+          "Someone else\u2019s credentials"
+        ],
+        "answer": 2
+      },
+      {
+        "title": "Build your portfolio artifact",
+        "text": "Create your deliverable: Personal lab setup. Include objectives, scope, screenshots or evidence, what you learned, and a short summary for a hiring manager.",
+        "question": "What makes a portfolio project credible?",
+        "choices": [
+          "Clear scope and repeatable evidence",
+          "Unverified claims",
+          "A screenshot without context",
+          "Access without permission"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "SOC Analyst Operations",
+    "tag": "SOC",
+    "description": "Triage alerts and investigate simulated incidents",
+    "project": "SOC alert triage casebook",
+    "lessons": [
+      {
+        "title": "Understand the fundamentals",
+        "text": "Learn the foundational vocabulary and concepts for soc analyst operations. Start with a simple example, then explain it in your own words.",
+        "question": "Which approach is appropriate for a security exercise?",
+        "choices": [
+          "Test any device you can reach",
+          "Test only authorized lab systems",
+          "Disable logging to avoid detection",
+          "Share private data publicly"
+        ],
+        "answer": 1
+      },
+      {
+        "title": "Practice in an authorized lab",
+        "text": "Apply the ideas from soc analyst operations in an isolated lab. Record your steps, the evidence, and how you would defend against the simulated risk.",
+        "question": "What should you record after an investigation?",
+        "choices": [
+          "Only your final guess",
+          "Nothing until the course ends",
+          "Evidence, findings, and mitigations",
+          "Someone else\u2019s credentials"
+        ],
+        "answer": 2
+      },
+      {
+        "title": "Build your portfolio artifact",
+        "text": "Create your deliverable: SOC alert triage casebook. Include objectives, scope, screenshots or evidence, what you learned, and a short summary for a hiring manager.",
+        "question": "What makes a portfolio project credible?",
+        "choices": [
+          "Clear scope and repeatable evidence",
+          "Unverified claims",
+          "A screenshot without context",
+          "Access without permission"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "SIEM & Threat Hunting",
+    "tag": "SIEM",
+    "description": "Collect logs, write searches, and document investigations",
+    "project": "SIEM detection and hunt portfolio",
+    "lessons": [
+      {
+        "title": "Understand the fundamentals",
+        "text": "Learn the foundational vocabulary and concepts for siem & threat hunting. Start with a simple example, then explain it in your own words.",
+        "question": "Which approach is appropriate for a security exercise?",
+        "choices": [
+          "Test any device you can reach",
+          "Test only authorized lab systems",
+          "Disable logging to avoid detection",
+          "Share private data publicly"
+        ],
+        "answer": 1
+      },
+      {
+        "title": "Practice in an authorized lab",
+        "text": "Apply the ideas from siem & threat hunting in an isolated lab. Record your steps, the evidence, and how you would defend against the simulated risk.",
+        "question": "What should you record after an investigation?",
+        "choices": [
+          "Only your final guess",
+          "Nothing until the course ends",
+          "Evidence, findings, and mitigations",
+          "Someone else\u2019s credentials"
+        ],
+        "answer": 2
+      },
+      {
+        "title": "Build your portfolio artifact",
+        "text": "Create your deliverable: SIEM detection and hunt portfolio. Include objectives, scope, screenshots or evidence, what you learned, and a short summary for a hiring manager.",
+        "question": "What makes a portfolio project credible?",
+        "choices": [
+          "Clear scope and repeatable evidence",
+          "Unverified claims",
+          "A screenshot without context",
+          "Access without permission"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Vulnerability & Authorized Testing",
+    "tag": "Testing",
+    "description": "Find, validate, and mitigate issues in a lab",
+    "project": "Authorized security assessment",
+    "lessons": [
+      {
+        "title": "Understand the fundamentals",
+        "text": "Learn the foundational vocabulary and concepts for vulnerability & authorized testing. Start with a simple example, then explain it in your own words.",
+        "question": "Which approach is appropriate for a security exercise?",
+        "choices": [
+          "Test any device you can reach",
+          "Test only authorized lab systems",
+          "Disable logging to avoid detection",
+          "Share private data publicly"
+        ],
+        "answer": 1
+      },
+      {
+        "title": "Practice in an authorized lab",
+        "text": "Apply the ideas from vulnerability & authorized testing in an isolated lab. Record your steps, the evidence, and how you would defend against the simulated risk.",
+        "question": "What should you record after an investigation?",
+        "choices": [
+          "Only your final guess",
+          "Nothing until the course ends",
+          "Evidence, findings, and mitigations",
+          "Someone else\u2019s credentials"
+        ],
+        "answer": 2
+      },
+      {
+        "title": "Build your portfolio artifact",
+        "text": "Create your deliverable: Authorized security assessment. Include objectives, scope, screenshots or evidence, what you learned, and a short summary for a hiring manager.",
+        "question": "What makes a portfolio project credible?",
+        "choices": [
+          "Clear scope and repeatable evidence",
+          "Unverified claims",
+          "A screenshot without context",
+          "Access without permission"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Mobile Security Investigation",
+    "tag": "Mobile",
+    "description": "Analyze permissions, app risks, and emulator evidence",
+    "project": "Mobile security investigation",
+    "lessons": [
+      {
+        "title": "Understand the fundamentals",
+        "text": "Learn the foundational vocabulary and concepts for mobile security investigation. Start with a simple example, then explain it in your own words.",
+        "question": "Which approach is appropriate for a security exercise?",
+        "choices": [
+          "Test any device you can reach",
+          "Test only authorized lab systems",
+          "Disable logging to avoid detection",
+          "Share private data publicly"
+        ],
+        "answer": 1
+      },
+      {
+        "title": "Practice in an authorized lab",
+        "text": "Apply the ideas from mobile security investigation in an isolated lab. Record your steps, the evidence, and how you would defend against the simulated risk.",
+        "question": "What should you record after an investigation?",
+        "choices": [
+          "Only your final guess",
+          "Nothing until the course ends",
+          "Evidence, findings, and mitigations",
+          "Someone else\u2019s credentials"
+        ],
+        "answer": 2
+      },
+      {
+        "title": "Build your portfolio artifact",
+        "text": "Create your deliverable: Mobile security investigation. Include objectives, scope, screenshots or evidence, what you learned, and a short summary for a hiring manager.",
+        "question": "What makes a portfolio project credible?",
+        "choices": [
+          "Clear scope and repeatable evidence",
+          "Unverified claims",
+          "A screenshot without context",
+          "Access without permission"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Cloud Security & Incident Response",
+    "tag": "Cloud",
+    "description": "IAM, logging, cloud threats, and incident response",
+    "project": "Cloud incident response exercise",
+    "lessons": [
+      {
+        "title": "Understand the fundamentals",
+        "text": "Learn the foundational vocabulary and concepts for cloud security & incident response. Start with a simple example, then explain it in your own words.",
+        "question": "Which approach is appropriate for a security exercise?",
+        "choices": [
+          "Test any device you can reach",
+          "Test only authorized lab systems",
+          "Disable logging to avoid detection",
+          "Share private data publicly"
+        ],
+        "answer": 1
+      },
+      {
+        "title": "Practice in an authorized lab",
+        "text": "Apply the ideas from cloud security & incident response in an isolated lab. Record your steps, the evidence, and how you would defend against the simulated risk.",
+        "question": "What should you record after an investigation?",
+        "choices": [
+          "Only your final guess",
+          "Nothing until the course ends",
+          "Evidence, findings, and mitigations",
+          "Someone else\u2019s credentials"
+        ],
+        "answer": 2
+      },
+      {
+        "title": "Build your portfolio artifact",
+        "text": "Create your deliverable: Cloud incident response exercise. Include objectives, scope, screenshots or evidence, what you learned, and a short summary for a hiring manager.",
+        "question": "What makes a portfolio project credible?",
+        "choices": [
+          "Clear scope and repeatable evidence",
+          "Unverified claims",
+          "A screenshot without context",
+          "Access without permission"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Enterprise Consulting & Governance",
+    "tag": "Consulting",
+    "description": "Risk, policy, executive communication, and assessment",
+    "project": "Enterprise security consulting package",
+    "lessons": [
+      {
+        "title": "Understand the fundamentals",
+        "text": "Learn the foundational vocabulary and concepts for enterprise consulting & governance. Start with a simple example, then explain it in your own words.",
+        "question": "Which approach is appropriate for a security exercise?",
+        "choices": [
+          "Test any device you can reach",
+          "Test only authorized lab systems",
+          "Disable logging to avoid detection",
+          "Share private data publicly"
+        ],
+        "answer": 1
+      },
+      {
+        "title": "Practice in an authorized lab",
+        "text": "Apply the ideas from enterprise consulting & governance in an isolated lab. Record your steps, the evidence, and how you would defend against the simulated risk.",
+        "question": "What should you record after an investigation?",
+        "choices": [
+          "Only your final guess",
+          "Nothing until the course ends",
+          "Evidence, findings, and mitigations",
+          "Someone else\u2019s credentials"
+        ],
+        "answer": 2
+      },
+      {
+        "title": "Build your portfolio artifact",
+        "text": "Create your deliverable: Enterprise security consulting package. Include objectives, scope, screenshots or evidence, what you learned, and a short summary for a hiring manager.",
+        "question": "What makes a portfolio project credible?",
+        "choices": [
+          "Clear scope and repeatable evidence",
+          "Unverified claims",
+          "A screenshot without context",
+          "Access without permission"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "MASS Secure Communications",
+    "tag": "MASS",
+    "description": "Design secure messaging for disrupted networks",
+    "project": "MASS secure communications prototype",
+    "lessons": [
+      {
+        "title": "Understand the fundamentals",
+        "text": "Learn the foundational vocabulary and concepts for mass secure communications. Start with a simple example, then explain it in your own words.",
+        "question": "Which approach is appropriate for a security exercise?",
+        "choices": [
+          "Test any device you can reach",
+          "Test only authorized lab systems",
+          "Disable logging to avoid detection",
+          "Share private data publicly"
+        ],
+        "answer": 1
+      },
+      {
+        "title": "Practice in an authorized lab",
+        "text": "Apply the ideas from mass secure communications in an isolated lab. Record your steps, the evidence, and how you would defend against the simulated risk.",
+        "question": "What should you record after an investigation?",
+        "choices": [
+          "Only your final guess",
+          "Nothing until the course ends",
+          "Evidence, findings, and mitigations",
+          "Someone else\u2019s credentials"
+        ],
+        "answer": 2
+      },
+      {
+        "title": "Build your portfolio artifact",
+        "text": "Create your deliverable: MASS secure communications prototype. Include objectives, scope, screenshots or evidence, what you learned, and a short summary for a hiring manager.",
+        "question": "What makes a portfolio project credible?",
+        "choices": [
+          "Clear scope and repeatable evidence",
+          "Unverified claims",
+          "A screenshot without context",
+          "Access without permission"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+]
